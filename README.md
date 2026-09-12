@@ -15,9 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.incibe.es/"><img alt="INCIBE 2018" src="https://img.shields.io/badge/INCIBE-2018-a67c00?style=for-the-badge&labelColor=1f1b2e"></a>
-  <a href="https://www.incibe.es/"><img alt="INCIBE 2019" src="https://img.shields.io/badge/INCIBE-2019-a67c00?style=for-the-badge&labelColor=1f1b2e"></a>
-  <a href="https://www.incibe.es/"><img alt="INCIBE 2020 Top 10" src="https://img.shields.io/badge/INCIBE-2020_Top_10-a67c00?style=for-the-badge&labelColor=1f1b2e"></a>
+  <a href="https://www.incibe.es/"><img src="docs/assets/img/incibe.png" alt="INCIBE — Instituto Nacional de Ciberseguridad" height="60"></a>
 </p>
 <p align="center"><sub>🏆 Recognized at the <b>INCIBE National Cybersecurity Competition</b> — 2018 · 2019 · 2020 (Top 10)</sub></p>
 
