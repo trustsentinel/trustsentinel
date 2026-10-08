@@ -21,7 +21,7 @@
 
 ---
 
-I'm **Álvaro López** — security architect (CISSP) and researcher. A decade of
+I'm **Álvaro López** — security engineer (CISSP) and researcher. A decade of
 tools spanning distributed systems, IoT and edge, and doctoral research on the
 security of decentralized networks. These are the projects worth keeping — small,
 sharp, and tested.
