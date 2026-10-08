@@ -21,16 +21,16 @@
 
 ---
 
-I'm **Álvaro López** — security engineer (CISSP) and researcher. A decade of
+I'm **Álvaro López** — security architect (CISSP) and researcher. A decade of
 tools spanning distributed systems, IoT and edge, and doctoral research on the
 security of decentralized networks. These are the projects worth keeping — small,
 sharp, and tested.
 
 ### 🔐 Secure connectivity
-- **[netso](https://github.com/trustsentinel/netso)** — secure connectivity control plane: isolated peer networks, discovery, mutual-auth Noise, a brokered shell from **CLI or browser**, monitoring, and self-sovereign (DID) device identity. [![CI](https://github.com/trustsentinel/netso/actions/workflows/ci.yml/badge.svg)](https://github.com/trustsentinel/netso/actions/workflows/ci.yml)
+- **[netso](https://github.com/trustsentinel/netso)** — secure connectivity control plane: isolated peer networks, discovery, mutual-auth Noise, a brokered shell from **CLI or browser**, monitoring, and self-sovereign (DID) device identity. [![CI](https://github.com/trustsentinel/netso/actions/workflows/ci.yml/badge.svg)](https://github.com/trustsentinel/netso/actions/workflows/ci.yml) - Top 10 Finalist
 - **[stk](https://github.com/trustsentinel/stk)** — browser broker for remote shell: end-to-end Noise, the hub relays only ciphertext. Go + WebAssembly + xterm.js. [![CI](https://github.com/trustsentinel/stk/actions/workflows/ci.yml/badge.svg)](https://github.com/trustsentinel/stk/actions/workflows/ci.yml)
-- **[stuk](https://github.com/trustsentinel/stuk)** — port-knocking SSH access manager: knock + TOTP → temporary, auto-revoked access (iptables + `AuthorizedKeysCommand`). [![CI](https://github.com/trustsentinel/stuk/actions/workflows/ci.yml/badge.svg)](https://github.com/trustsentinel/stuk/actions/workflows/ci.yml)
-- **[marshmallows](https://github.com/trustsentinel/marshmallows)** — secure mesh for IoT: an encrypted peer overlay with a browser **dashboard + terminal** and 2FA/U2F, on the Noise Protocol.
+- **[stuk](https://github.com/trustsentinel/stuk)** — port-knocking SSH access manager: knock + TOTP → temporary, auto-revoked access (iptables + `AuthorizedKeysCommand`). [![CI](https://github.com/trustsentinel/stuk/actions/workflows/ci.yml/badge.svg)](https://github.com/trustsentinel/stuk/actions/workflows/ci.yml) - 2nd Prize
+- **[marshmallows](https://github.com/trustsentinel/marshmallows)** — secure mesh for IoT: an encrypted peer overlay with a browser **dashboard + terminal** and 2FA/U2F, on the Noise Protocol. - 4th Prize
 
 ### 🛰 Network intelligence &amp; research
 - **[argos](https://github.com/trustsentinel/argos)** — distributed P2P blockchain scanning &amp; vulnerability pipeline: Docker-deployable, end-to-end tested. [![CI](https://github.com/trustsentinel/argos/actions/workflows/ci.yml/badge.svg)](https://github.com/trustsentinel/argos/actions/workflows/ci.yml)
